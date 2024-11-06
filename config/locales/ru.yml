@@ -1,0 +1,8 @@
+ru:
+  list_all_expand: "Развернуть все"
+  list_all_collapse: "Свернуть все"
+  context_menu_expand: "Развернуть это дерево"
+  context_menu_collapse: "Свернуть это дерево"
+  context_menu_all_expand_next: "Развернуть следующий уровень всех"
+  field_subtasks_default_expand_limit_upper: "Верхний предел количества подзадач для первоначального разворачивания дерева"
+  label_enable_server_scripting_mode: "Включить режим обработки на сервере (Отображение дерева с большим количеством подзадач быстрее, но может конфликтовать с другими плагинами подзадач, например, с плагином 'subtask_list_columns')"
